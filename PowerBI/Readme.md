@@ -43,7 +43,7 @@ Each project demonstrates skills in data modeling, DAX measures, and interactive
 ### [Sales & Inventory Analysis](Sales%20and%20inventory%20analysis%20files/)
 - Product sales, discounts, and customer purchasing behavior.
 - Key insight: Asparagus and Rhubarb were top-selling products; Strawberry generated the highest sales revenue.
-![Sales & Inventory Dashboard](Sales%20and%20inventory%20analysis%20files/Sales%20and%20Inventory%20Analysis.png)
+![Sales & Inventory Dashboard](Sales%20and%20inventory%20analysis%20files/Sales%20and%20Inventory%20Analysis%20Dahboard.png)
 
 ---
 
