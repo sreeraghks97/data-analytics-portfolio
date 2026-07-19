@@ -25,11 +25,12 @@ Each project demonstrates skills in pivot tables, slicers, charts, and KPI visua
 - Sales performance across product categories, cities, and payment methods.
 - Techniques: Pivot tables, conditional formatting, bar/pie/line charts.
 - Key insight: Health & Beauty products generated the highest gross income; Naypyitaw city contributed the most revenue.
-![SuperMarket Sales Dashboard](SuperMarket%20Sales/SuperMarket-Sales.png)
+![SuperMarket Sales Dashboard](SuperMarket%20Sales/SuperMarket-Sales-Dashboard.png)
 
 ---
 
 ### [Visual Gaming Dashboard](VISUAL%20GAMING%20DASHBOARD/)
 - Gaming activity and revenue across Indian states.
 - Techniques: Pivot tables, bar/pie/line charts, trend analysis.
-- Key insight: Bihar generated the highest revenue
+- Key insight: Bihar generated the highest revenue; average daily users peaked around 900–1000.
+![Visual Gaming Dashboard](VISUAL%20GAMING%20DASHBOARD/Visual-Gaming-Dashboard-Dashboard.png)
