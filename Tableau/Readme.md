@@ -64,18 +64,18 @@ Each project demonstrates skills in data visualization, filters, KPIs, and story
 ### [Netflix Analysis](Netflix%20Analysis/)
 - Dashboard analyzing Netflix catalog by type, release year, country, genre, and rating.
 - Key insight: TV-MA was the most common rating; content surged after 2015.
-![Netflix Dashboard](Netflix%20Analysis/Netflix%20Dashboard.png)
+![Netflix Dashboard](Netflix/Netflix%20Dashboard.png)
 
 ---
 
 ### [Rainfall Analysis](Rainfall%20Analysis/)
 - Dashboard analyzing rainfall patterns across Indian states and seasons.
 - Key insight: Monsoon contributed over 90% of annual rainfall in several states.
-![Rainfall Dashboard](Rainfall%20Analysis/RainfallAnalysis%20Dashboard.jpg)
+![Rainfall Dashboard](Rainfall%20Data%20Analysis/RainfallAnalysis%20Dashboard.jpg)
 
 ---
 
 ### [UK Bank Analysis](UKBank/)
 - Dashboard analyzing customer demographics, balances, and regional distribution.
 - Key insight: Majority of customers were white-collar workers in England, aged 30–40.
-![UK Bank Dashboard](UKBank/UKBank%20Dashboard.jpg)
+![UK Bank Dashboard](UK%20Bank/UKBank%20Dashboard.jpg)
