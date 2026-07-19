@@ -29,14 +29,14 @@ Each project demonstrates skills in data modeling, DAX measures, and interactive
 ### [IBM Employee Data Analysis](IBM%20Employees/)
 - Workforce demographics and departmental distribution.
 - Key insight: Research & Development had the largest share of employees; male employees slightly outnumbered female.
-![IBM Employee Dashboard](IBM%20Employees/IBM Employee Data Analysis.png)
+![IBM Employee Dashboard](IBM%20Employees/IBM%20Employee%20Data%20Analysis.png)
 
 ---
 
 ### [Olympics Analysis](Olympics%20Dataset%20Files/)
 - Medal counts and participation trends across countries and sports.
 - Key insight: USA led overall medals; female athletes contributed the majority of medals.
-![Olympics Dashboard](Olympics%20Dataset%20Files/olympics%20dataset%20dashboard.png)
+![Olympics Dashboard](Olympics%20Dataset%20Files/olympics%20data%20dashboard.png)
 
 ---
 
