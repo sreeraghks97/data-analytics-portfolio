@@ -18,7 +18,7 @@ Excel dashboard analyzing supermarket sales performance across product categorie
 - E-wallet was the most used payment method.
 
 ## 🖼 Screenshot
-![SuperMarket Sales Dashboard](SuperMarket-Sales.png)
+![SuperMarket Sales Dashboard](SuperMarket-Sales-Dashboard.png)
 
 ## 📁 Files in This Folder
 - `SuperMarket.xlsx`
