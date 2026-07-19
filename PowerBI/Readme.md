@@ -36,7 +36,7 @@ Each project demonstrates skills in data modeling, DAX measures, and interactive
 ### [Olympics Analysis](Olympics%20Dataset%20Files/)
 - Medal counts and participation trends across countries and sports.
 - Key insight: USA led overall medals; female athletes contributed the majority of medals.
-![Olympics Dashboard](Olympics%20Dataset%20Files/Olympics%20Analysis.png)
+![Olympics Dashboard](Olympics%20Dataset%20Files/olympics data dashboard.png)
 
 ---
 
