@@ -32,14 +32,14 @@ The `SQL_QUESTIONS` folder includes query prompts, while the `SQL_SOLUTIONS` fol
 ### [Product Sales Analysis](SQL_QUESTIONS/5_Product%20Sales%20Analysis.docx)
 - Query identifying top-selling products by revenue.
 - Key insight: Apple and Orange were top sellers.
-![Product Sales Analysis](SQL_SOLUTIONS/Product%20Sales%20Analysis.png)
+![Product Sales Analysis](SQL/Product%20Sales%20Analysis.png)
 
 ---
 
 ### [Top Performing Ads](SQL_QUESTIONS/6_Top%20Performing%20Ads.docx)
 - Query calculating CTR for ads.
 - Key insight: Ad 5 had the highest CTR (8%).
-![Top Performing Ads](SQL_SOLUTIONS/Top%20Performing%20ads.png)
+![Top Performing Ads](SQL/Top%20Performing%20ads.png)
 
 ---
 
@@ -64,4 +64,4 @@ The `SQL_QUESTIONS` folder includes query prompts, while the `SQL_SOLUTIONS` fol
 ### [Ride Cancellation Rate](SQL_QUESTIONS/10_Ride%20Cancellation%20Rate.docx)
 - Query calculating cancellation rate for non-banned users.
 - Key insight: July 12 rate = 0.33, July 13 = 0.00, July 14 = 0.50.
-![Ride Cancellation Rate](SQL_SOLUTIONS/Ride%20cancellation%20rate.png)
+![Ride Cancellation Rate](SQL/Ride%20cancellation%20rate.png)
