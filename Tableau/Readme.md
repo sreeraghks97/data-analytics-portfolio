@@ -36,28 +36,28 @@ Each project demonstrates skills in data visualization, filters, KPIs, and story
 ### [Google PlayStore Analysis](Google%20PlayStore%20Analysis/)
 - Dashboard analyzing app categories, ratings, and user sentiments.
 - Key insight: Positive sentiment dominated reviews; productivity and gaming apps led installs.
-![PlayStore Dashboard](Google%20PlayStore%20Analysis/PlayStoreAnalysis%20Dashboard.jpg)
+![PlayStore Dashboard](Google%20PlayStore%20Analysis/GooglePlayStore%20Dashboard.jpg)
 
 ---
 
-### [Hospital LOS Analysis](Hospital%20LOS%20Analysis/)
+### [Hospital LOS Analysis](HealthCare%20Analysis/)
 - Dashboard analyzing hospital Length of Stay metrics by department, severity, and demographics.
 - Key insight: Emergency admissions had the longest average LOS.
-![Hospital LOS Dashboard](Hospital%20LOS%20Analysis/HospitalLOS%20Dashboard.jpg)
+![Hospital LOS Dashboard](HealthCare%20Analysis/HealthCareAnalysis/%20Dashboard.jpg)
 
 ---
 
 ### [House Data Analytics](House%20Data%20Analytics/)
 - Dashboard analyzing house prices against crime rate, pollution, distance, and rooms.
 - Key insight: Crime rate and pollution had strong negative correlation with house prices.
-![House Dashboard](House%20Data%20Analytics/HouseData%20Dashboard.jpg)
+![House Dashboard](House%20Data%20Analytics/HousingData%20Dashboard.jpg)
 
 ---
 
 ### [HR Analysis](HR%20Analysis/)
 - Dashboard analyzing employee attrition, demographics, and job roles.
 - Key insight: Sales department had the highest attrition; younger employees more likely to leave.
-![HR Dashboard](HR%20Analysis/HRAnalysis%20Dashboard.jpg)
+![HR Dashboard](HR%20Analysis/HR_Analysis%20Dashboard.jpg)
 
 ---
 
