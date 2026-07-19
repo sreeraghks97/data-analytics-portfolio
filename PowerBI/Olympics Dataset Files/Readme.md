@@ -14,7 +14,7 @@ Interactive Power BI dashboard analyzing Olympic medal counts and participation 
 
 ## 📊 Key Insights
 - USA led overall medal counts.
-- Female athletes contributed the majority of medals.
+- Male athletes contributed the majority of medals.
 - Athletics, Gymnastics, and Swimming were top sports.
 
 ## 🖼 Screenshot
