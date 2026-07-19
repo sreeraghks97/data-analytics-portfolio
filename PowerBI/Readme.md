@@ -15,21 +15,21 @@ Each project demonstrates skills in data modeling, DAX measures, and interactive
 ### [Email Marketing Analysis](Email%20Marketing%20Analysis%20Project%20Files/)
 - Campaign performance analysis with demographics and engagement metrics.
 - Key insight: Majority of users were female; most were couples with children; Hyderabad had the highest enrollments.
-![Email Marketing Dashboard](Email%20Marketing%20Analysis%20Project%20Files/Email%20Marketing%20Analysis.png)
+![Email Marketing Dashboard](Email%20Marketing%20Analysis%20Project%20Files/EmailMarketingAnalysis.jpg)
 
 ---
 
 ### [Global Terrorism Analysis](Global%20Terrorism%20Analysis%20Files/)
 - Comprehensive analysis of terrorist incidents worldwide.
 - Key insight: Taliban and ISIL were the most deadly groups; explosives were the most used weapon type.
-![Global Terrorism Dashboard](Global%20Terrorism%20Analysis%20Files/Global%20Terrorism%20Analysis.png)
+![Global Terrorism Dashboard](Global%20Terrorism%20Analysis%20Files/GlobalTerrorism.png)
 
 ---
 
 ### [IBM Employee Data Analysis](IBM%20Employees/)
 - Workforce demographics and departmental distribution.
 - Key insight: Research & Development had the largest share of employees; male employees slightly outnumbered female.
-![IBM Employee Dashboard](IBM%20Employees/IBM%20Employee%20Data%20Analysis.png)
+![IBM Employee Dashboard](IBM%20Employees/IBM Employee Data Analysis.png)
 
 ---
 
