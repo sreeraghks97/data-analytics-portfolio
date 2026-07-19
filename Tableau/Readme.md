@@ -43,7 +43,7 @@ Each project demonstrates skills in data visualization, filters, KPIs, and story
 ### [HealthCare Analysis](HealthCare%20Analysis/)
 - Dashboard analyzing hospital Length of Stay metrics by department, severity, and demographics.
 - Key insight: Emergency admissions had the longest average LOS.
-![HealthCare Dashboard](HealthCare%20Analysis/HealthCareAnalysis/%20Dashboard.jpg)
+![HealthCare Dashboard](HealthCare%20Analysis/HealthCareAnalysis%20Dashboard.jpg)
 
 ---
 
@@ -68,7 +68,7 @@ Each project demonstrates skills in data visualization, filters, KPIs, and story
 
 ---
 
-### [Rainfall Data Analysis](Rainfall%20Analysis/)
+### [Rainfall Data Analysis](Rainfall%20Data%20Analysis/)
 - Dashboard analyzing rainfall patterns across Indian states and seasons.
 - Key insight: Monsoon contributed over 90% of annual rainfall in several states.
 ![Rainfall Data Dashboard](Rainfall%20Data%20Analysis/RainfallAnalysis%20Dashboard.jpg)
