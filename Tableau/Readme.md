@@ -71,7 +71,8 @@ Each project demonstrates skills in data visualization, filters, KPIs, and story
 ### [Rainfall Data Analysis](Rainfall%20Data%20Analysis/)
 - Dashboard analyzing rainfall patterns across Indian states and seasons.
 - Key insight: Monsoon contributed over 90% of annual rainfall in several states.
-![Rainfall Data Dashboard](Rainfall%20Data%20Analysis/RainfallAnalysis%20Dashboard.jpg)
+![Rainfall Dashboard](RainFall%20Data%20Analysis/RainFallAnalysis%20Dashboard.jpg)
+
 
 ---
 
