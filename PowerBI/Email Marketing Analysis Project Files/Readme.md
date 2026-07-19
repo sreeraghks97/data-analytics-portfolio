@@ -13,7 +13,7 @@ Dashboard analyzing email marketing campaign performance, demographics, and enga
 - Interactive filters and slicers
 
 ## 📊 Key Insights
-- Majority of users were female.
+- Majority of users were male.
 - Most users were couples with children.
 - Hyderabad had the highest enrollments.
 
