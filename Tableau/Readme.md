@@ -40,17 +40,17 @@ Each project demonstrates skills in data visualization, filters, KPIs, and story
 
 ---
 
-### [Hospital LOS Analysis](HealthCare%20Analysis/)
+### [HealthCare Analysis](HealthCare%20Analysis/)
 - Dashboard analyzing hospital Length of Stay metrics by department, severity, and demographics.
 - Key insight: Emergency admissions had the longest average LOS.
-![Hospital LOS Dashboard](HealthCare%20Analysis/HealthCareAnalysis/%20Dashboard.jpg)
+![HealthCare Dashboard](HealthCare%20Analysis/HealthCareAnalysis/%20Dashboard.jpg)
 
 ---
 
 ### [House Data Analytics](House%20Data%20Analytics/)
 - Dashboard analyzing house prices against crime rate, pollution, distance, and rooms.
 - Key insight: Crime rate and pollution had strong negative correlation with house prices.
-![House Dashboard](House%20Data%20Analytics/HousingData%20Dashboard.jpg)
+![House Data Dashboard](HousingData/HousingData%20Dashboard.jpg)
 
 ---
 
@@ -68,10 +68,10 @@ Each project demonstrates skills in data visualization, filters, KPIs, and story
 
 ---
 
-### [Rainfall Analysis](Rainfall%20Analysis/)
+### [Rainfall Data Analysis](Rainfall%20Analysis/)
 - Dashboard analyzing rainfall patterns across Indian states and seasons.
 - Key insight: Monsoon contributed over 90% of annual rainfall in several states.
-![Rainfall Dashboard](Rainfall%20Data%20Analysis/RainfallAnalysis%20Dashboard.jpg)
+![Rainfall Data Dashboard](Rainfall%20Data%20Analysis/RainfallAnalysis%20Dashboard.jpg)
 
 ---
 
