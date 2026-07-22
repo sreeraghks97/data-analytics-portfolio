@@ -43,7 +43,7 @@ Each project demonstrates skills in data visualization, filters, KPIs, and story
 ### [HealthCare Analysis](HealthCare%20Analysis/)
 - Dashboard analyzing hospital Length of Stay metrics by department, severity, and demographics.
 - Key insight: Emergency admissions had the longest average LOS.
-![HealthCare Dashboard](HealthCare%20Analysis/HealthCareAnalysis%20Dashboard.jpg)
+![HealthCare Dashboard](HealthCare%20Analysis/Hospital%20Length%20of%20Stay%20Dashboard.jpg)
 
 ---
 
