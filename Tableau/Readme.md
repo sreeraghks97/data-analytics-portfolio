@@ -43,14 +43,14 @@ Each project demonstrates skills in data visualization, filters, KPIs, and story
 ### [HealthCare Analysis](HealthCare%20Analysis/)
 - Dashboard analyzing hospital Length of Stay metrics by department, severity, and demographics.
 - Key insight: Emergency admissions had the longest average LOS.
-![HealthCare Dashboard](HealthCare%20Analysis/Hospital%20Length%20of%20Stay%20Dashboard.jpg)
+![HealthCare Dashboard](Hospital%20Length%20of%20Stay/Hospital%20Length%20of%20Stay%20Dashboard.jpg)
 
 ---
 
 ### [House Data Analytics](House%20Data%20Analytics/)
 - Dashboard analyzing house prices against crime rate, pollution, distance, and rooms.
 - Key insight: Crime rate and pollution had strong negative correlation with house prices.
-![House Data Dashboard](HousingData/HousingData%20Dashboard.jpg)
+![House Data Dashboard](Housing%20Data/HousingData%20Dashboard.jpg)
 
 ---
 
