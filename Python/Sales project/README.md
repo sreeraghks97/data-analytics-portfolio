@@ -146,7 +146,7 @@ Visualizes relationships among key sales metrics to identify significant correla
 
 Illustrates the relationship between product pricing and generated revenue.
 
-![Unit Price vs Revenue](images/unit_price_vs_revenue.png)
+![Unit Price vs Revenue](images/unit_price_vs_revenue..png)
 
 ---
 
@@ -189,8 +189,7 @@ Illustrates the relationship between product pricing and generated revenue.
 
 ```text
 Sales-Data-Analysis/
-│── sales_data.csv
-│── Sales Data Analysis.ipynb
+│── Sales_Data_Capstone.ipynb
 │── README.md
 │── requirements.txt
 │── images/
