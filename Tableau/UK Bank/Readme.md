@@ -97,7 +97,7 @@ Displays the number of customers across different UK regions, including England,
 
 ## 🖼 Dashboard Preview
 
-![UK Bank Customer Dashboard](TableuProject1-UKBank.jpg)
+![UK Bank Customer Dashboard](UKBank%20Dashboard.jpg)
 
 ---
 
