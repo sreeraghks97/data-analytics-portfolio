@@ -99,7 +99,7 @@ Used visualizations to identify:
 
 Analyzed the distribution of emergency calls across different service categories.
 
-![Emergency Calls by Reason](images/911%20Calls%20by%20Reason.png)
+![Emergency Calls by Reason](images/911%20calls%20by%20Reason.png)
 
 ---
 
@@ -107,7 +107,7 @@ Analyzed the distribution of emergency calls across different service categories
 
 Analyzed monthly call volumes to identify changes in emergency demand over time.
 
-![Monthly Call Trend](images/Monthly%20Call%20Trend.png)
+![Monthly Call Trend](images/Monthly%20Emergency%20Call%20Trend.png)
 
 ---
 
@@ -115,7 +115,7 @@ Analyzed monthly call volumes to identify changes in emergency demand over time.
 
 Visualized daily emergency call patterns to identify fluctuations and demand changes.
 
-![Daily Call Trend](images/Daily%20Call%20Trend.png)
+![Daily Call Trend](images/Daily%20Emergency%20Call%20Trend.png)
 
 ---
 

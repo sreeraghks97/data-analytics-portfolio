@@ -103,7 +103,7 @@ Through this project, I gained practical experience in:
 
 ## 🖼 Dashboard Preview
 
-![Hospital LOS Dashboard](Hospital Length of Stay Dashboard.jpg)
+![Hospital LOS Dashboard](Hospital%20Length%20of%20Stay%20Dashboard.jpg)
 
 ---
 
