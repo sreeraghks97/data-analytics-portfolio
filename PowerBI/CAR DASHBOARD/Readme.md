@@ -1,27 +1,80 @@
-# Car Dashboard (Power BI)
+# 🚗 Car Sales Analysis Dashboard | Power BI
 
-## 📌 Overview
-Interactive Power BI dashboard analyzing car sales and performance data.  
-Includes filters for fuel type, kilometers driven, and year of make.
+![Dashboard Preview](Car%20Data%20Dashboard.png)
+
+## 📌 Project Overview
+
+This Power BI dashboard analyzes used car sales data to explore pricing trends, vehicle characteristics, and brand performance. It provides an interactive view of the dataset, allowing users to examine how factors such as fuel type, manufacturing year, transmission, and kilometers driven influence the used car market.
+
+---
+
+## 🎯 Business Objective
+
+The objective of this project is to analyze used car sales data and uncover trends in vehicle pricing, brand distribution, and inventory composition. The dashboard enables users to compare different vehicle segments and gain insights that support market analysis and data-driven decision-making.
+
+---
 
 ## 📂 Dataset
-- Source: Car sales dataset
-- Format: CSV/Excel with brand, model, transmission, fuel, selling price
 
-## ⚙️ Techniques Used
-- Power BI data modeling
-- DAX measures for KPIs
-- Interactive filters and slicers
+**Source:** Car Sales Dataset
 
-## 📊 Key Insights
-- Diesel cars dominated sales.
-- BMW and Audi models had the highest selling prices.
-- Tata and Mahindra had the largest number of models.
+The dataset includes information such as:
 
-## 🖼 Screenshot
-![Car Dashboard](Car%20Data%20Dashboard.png)
+- Car Brand
+- Model
+- Year of Manufacture
+- Fuel Type
+- Transmission
+- Kilometers Driven
+- Selling Price
 
-## 📁 Files in This Folder
-- `Car Dashboard.pbix` → Power BI dashboard
-- `Car Data Dashboard.png` → Screenshot
-- `README.md` → Documentation
+---
+
+## 📊 Dashboard Features
+
+- Interactive slicers for:
+  - Fuel Type
+  - Manufacturing Year
+  - Kilometers Driven
+- Brand-wise vehicle distribution
+- Selling price comparison across manufacturers
+- Model availability analysis
+- Dynamic visuals that update based on user selections
+
+---
+
+## 🛠️ Tools & Skills Used
+
+- Power BI
+- Data Cleaning
+- Data Modeling
+- DAX
+- Interactive Dashboards
+- Data Visualization
+- Slicers & Filters
+
+---
+
+## 🔍 Key Findings
+
+- Diesel vehicles represent the largest share of cars in the dataset.
+- BMW and Audi recorded the highest average selling prices among the available brands.
+- Tata and Mahindra contributed the highest number of listed vehicle models.
+- Interactive filtering enables comparison of pricing patterns across fuel types, manufacturing years, and mileage ranges.
+
+---
+
+## ✅ Conclusion
+
+This dashboard provides an interactive overview of the used car market by transforming raw sales data into meaningful visual insights. It demonstrates the effective use of Power BI for data modeling, DAX calculations, and dashboard development while enabling users to explore pricing trends, brand performance, and vehicle characteristics through dynamic analysis.
+
+---
+
+## 📁 Project Structure
+
+```
+Car Sales Analysis/
+│── Car Dashboard.pbix
+│── Car Data Dashboard.png
+└── README.md
+```

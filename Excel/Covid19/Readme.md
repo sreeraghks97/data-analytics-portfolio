@@ -1,26 +1,77 @@
-# Covid-19 Dashboard (Excel)
+# 🦠 COVID-19 Dashboard | Microsoft Excel
 
-## 📌 Overview
-Interactive Excel dashboard analyzing global Covid-19 cases and deaths.
+![Dashboard Preview](Covid-19-Dashboard.png)
+
+## 📌 Project Overview
+
+This Excel dashboard analyzes global COVID-19 data to provide insights into confirmed cases, deaths, and regional trends. Using interactive visualizations and pivot-based reporting, the dashboard enables users to explore the spread of COVID-19 across different regions and identify key patterns in reported cases.
+
+---
+
+## 🎯 Business Objective
+
+The objective of this project is to analyze global COVID-19 statistics to understand the distribution of confirmed cases and deaths across different regions. The dashboard provides an interactive view of pandemic trends, helping users identify geographical patterns and monitor changes over time.
+
+---
 
 ## 📂 Dataset
-- Source: Worldometer Covid-19 data
-- Format: Excel files
 
-## ⚙️ Techniques Used
-- Pivot tables
+**Source:** Worldometer COVID-19 Dataset
+
+The dataset includes information such as:
+
+- Country/Region
+- Total Cases
+- New Cases
+- Total Deaths
+- New Deaths
+- Date
+- Regional Statistics
+
+---
+
+## 📊 Dashboard Features
+
+- Interactive dashboard built using Pivot Tables and Pivot Charts
+- Regional comparison of COVID-19 cases
+- Country-wise case analysis
+- Daily new case trend visualization
+- Interactive filtering for data exploration
+
+---
+
+## 🛠️ Tools & Skills Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
 - Slicers
-- Charts (bar, pie, line)
+- Data Cleaning
+- Dashboard Design
+- Data Visualization
 
-## 📊 Key Insights
-- Asia reported the highest number of cases.
-- Bangladesh and China had the largest new case counts.
-- Daily new cases peaked in August.
+---
 
-## 🖼 Screenshot
-![Covid-19 Dashboard](Covid-19-Dashboard.png)
+## 🔍 Key Findings
 
-## 📁 Files in This Folder
-- `COVID-19 DASHBOARD.xlsx`
-- `Covid-19-Dashboard.png`
-- `README.md`
+- Asia reported the highest number of COVID-19 cases in the dataset.
+- Bangladesh and China recorded the highest number of new cases during the analyzed period.
+- Daily new cases reached their peak during August.
+- Interactive filtering enables comparison of COVID-19 statistics across countries and regions.
+
+---
+
+## ✅ Conclusion
+
+This dashboard transforms COVID-19 data into an interactive reporting solution that highlights regional case distribution and pandemic trends. It demonstrates the use of Microsoft Excel for dashboard development, data visualization, and analytical reporting through Pivot Tables, Pivot Charts, and interactive filtering.
+
+---
+
+## 📁 Project Structure
+
+```
+COVID-19 Dashboard/
+│── COVID-19 DASHBOARD.xlsx
+│── Covid-19-Dashboard.png
+└── README.md
+```

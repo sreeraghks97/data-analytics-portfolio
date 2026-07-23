@@ -1,53 +1,75 @@
-# Power BI Projects
+# 📊 Power BI Projects Portfolio
 
-This folder contains interactive dashboards built in Power BI.  
-Each project demonstrates skills in data modeling, DAX measures, and interactive visualization.
+This repository contains a collection of interactive Power BI dashboards developed to analyze datasets from various business domains, including sales, marketing, human resources, automobiles, public statistics, and global events.
 
-## 📂 Projects
-
-### [Car Dashboard](CAR%20DASHBOARD/)
-- Analysis of car sales and performance data with filters for fuel type, kilometers driven, and year of make.
-- Key insight: Diesel cars dominated sales; BMW and Audi models had the highest selling prices.
-![Car Dashboard](CAR%20DASHBOARD/Car%20Data%20Dashboard.png)
+Each project focuses on transforming raw data into meaningful insights through data modeling, DAX calculations, interactive visualizations, and dashboard design.
 
 ---
 
-### [Email Marketing Analysis](Email%20Marketing%20Analysis%20Project%20Files/)
-- Campaign performance analysis with demographics and engagement metrics.
-- Key insight: Majority of users were female; most were couples with children; Hyderabad had the highest enrollments.
-![Email Marketing Dashboard](Email%20Marketing%20Analysis%20Project%20Files/EmailMarketingAnalysis.jpg)
+## 📁 Projects Included
+
+| Project | Description |
+|---------|-------------|
+| 🚗 Car Sales Analysis | Analyzes used car pricing, brand performance, and vehicle characteristics. |
+| 📧 Email Marketing Analysis | Examines customer demographics, campaign engagement, and enrollment trends. |
+| 🌍 Global Terrorism Analysis | Explores historical terrorism incidents by region, attack type, weapon usage, and terrorist organizations. |
+| 👨‍💼 IBM Employee Data Analysis | Provides HR analytics on workforce demographics, department distribution, education, and attrition. |
+| 🏅 Olympics Analysis | Analyzes medal distribution, athlete participation, country performance, and sports trends. |
+| 📦 Sales & Inventory Analysis | Evaluates product performance, sales revenue, inventory, and purchasing patterns. |
+| 📊 Unemployment Data Analysis | Examines unemployment trends across age groups, gender, and time. |
 
 ---
 
-### [Global Terrorism Analysis](Global%20Terrorism%20Analysis%20Files/)
-- Comprehensive analysis of terrorist incidents worldwide.
-- Key insight: Taliban and ISIL were the most deadly groups; explosives were the most used weapon type.
-![Global Terrorism Dashboard](Global%20Terrorism%20Analysis%20Files/GlobalTerrorism.png)
+## 🛠️ Tools & Technologies
+
+- Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Data Cleaning & Transformation
+- Interactive Dashboards
+- Slicers & Filters
+- Charts & Visualizations
 
 ---
 
-### [IBM Employee Data Analysis](IBM%20Employees/)
-- Workforce demographics and departmental distribution.
-- Key insight: Research & Development had the largest share of employees; male employees slightly outnumbered female.
-![IBM Employee Dashboard](IBM%20Employees/IBM%20Employee%20Data%20Analysis.png)
+## 📈 Skills Demonstrated
+
+- Data Preparation and Transformation
+- Data Modeling
+- Dashboard Design
+- KPI Development
+- DAX Calculations
+- Interactive Reporting
+- Trend Analysis
+- Comparative Analysis
+- Business Insight Generation
+- Data Visualization
 
 ---
 
-### [Olympics Analysis](Olympics%20Dataset%20Files/)
-- Medal counts and participation trends across countries and sports.
-- Key insight: USA led overall medals; female athletes contributed the majority of medals.
-![Olympics Dashboard](Olympics%20Dataset%20Files/olympics%20data%20dashboard.png)
+## 🎯 Repository Objective
+
+The objective of this repository is to demonstrate practical Power BI skills by building interactive dashboards that transform raw datasets into meaningful business insights. Each project focuses on solving a different analytical problem while showcasing data visualization, modeling, and reporting techniques commonly used in business intelligence and data analytics.
 
 ---
 
-### [Sales & Inventory Analysis](Sales%20and%20inventory%20analysis%20files/)
-- Product sales, discounts, and customer purchasing behavior.
-- Key insight: Asparagus and Rhubarb were top-selling products; Strawberry generated the highest sales revenue.
-![Sales & Inventory Dashboard](Sales%20and%20inventory%20analysis%20files/Sales%20and%20Inventory%20Analysis%20Dahboard.png)
+## 📂 Repository Structure
+
+```
+Power BI/
+│── Car Sales Analysis/
+│── Email Marketing Analysis/
+│── Global Terrorism Analysis/
+│── IBM Employee Data Analysis/
+│── Olympics Analysis/
+│── Sales & Inventory Analysis/
+│── Unemployment Data Analysis/
+└── README.md
+```
 
 ---
 
-### [Unemployment Data Analysis](Unemployment%20Data%20Analysis/)
-- Unemployment trends by age, gender, and year.
-- Key insight: Men aged 25–34 had the highest unemployment; peak occurred in 2010 with sharp decline by 2015.
-![Unemployment Dashboard](Unemployment%20Data%20Analysis/Unemployment%20Data%20Analysis%20Dashboard.png)
+## ✅ Conclusion
+
+This collection demonstrates the application of Power BI across multiple analytical domains, including sales, marketing, human resources, public statistics, and global events. Together, these projects showcase proficiency in data modeling, DAX, interactive dashboard development, and business-oriented data visualization, reflecting the practical skills required for data analyst and business intelligence roles.
